@@ -1,7 +1,7 @@
 {
-  "name": "skaffold-hello-world",
+  "name": "devspace-hello-world",
   "version": "1.0.0",
-  "description": "Simple Hello World example for Skaffold",
+  "description": "Simple Hello World example for Devspace",
   "main": "index.js",
   "scripts": {
     "prebuild": "rimraf dist",
